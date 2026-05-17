@@ -32,7 +32,9 @@ FILES USED :
 
 
 OUPUTS : 
+<img width="1904" height="1000" alt="Image" src="https://github.com/user-attachments/assets/342ce923-1c17-424e-ae83-3f89807a9976" />
 
+<img width="1915" height="990" alt="Image" src="https://github.com/user-attachments/assets/869493dd-364c-42e1-a721-cfd8bebe10c5" />
 
 
 Task 5 completed successfully and uploaded to GitHub as part of APSCHE internship work.
